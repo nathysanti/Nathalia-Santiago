@@ -17,7 +17,11 @@ nav a{
     text-decoration: none;
     color: black;
 }
-
+#fotoNathalia{
+    border-radius:142px;
+    height: 258px;
+    border: 10px solid #EDBAFF;
+}
 footer{
     display: flex;
     background-color: #EDBAFF;
