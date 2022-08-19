@@ -19,7 +19,7 @@ nav a{
 }
 #apresentacao{
     display:flex;
-    justify-content: space-around;
+    justify-content: center;
     align-items: center;
     height: 400px;
     
@@ -29,6 +29,37 @@ nav a{
     height: 350px;
     border: 10px solid #EDBAFF;
     margin-top: 40px;
+}
+#apresentacaoIntroducao{
+    margin-left: 50px;
+    width: 300px;
+}
+#projetos{
+    background-color: #EDBAFF;
+    height: 500px;   
+    
+}
+#projetos-nome{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height:100px;
+    background-color:#D6A4E8;
+}
+#projetosTipo{
+    margin-top:50px;
+    display:flex;
+    justify-content: space-around;
+}
+.projetosTipo_{
+    display:flex;
+    border-radius:20px;
+    border: 5px solid #D6A4E8;
+    justify-content: space-around;
+    align-items: center;
+    width: 150px;
+    height:250px;
+    
 }
 footer{
     display: flex;
