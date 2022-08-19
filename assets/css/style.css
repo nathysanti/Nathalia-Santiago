@@ -17,10 +17,18 @@ nav a{
     text-decoration: none;
     color: black;
 }
+#apresentacao{
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 400px;
+    
+}
 #fotoNathalia{
     border-radius:142px;
-    height: 258px;
+    height: 350px;
     border: 10px solid #EDBAFF;
+    margin-top: 40px;
 }
 footer{
     display: flex;
